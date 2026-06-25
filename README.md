@@ -97,7 +97,7 @@ python3 app.py
 The application can be accessed through the EC2 public IP:
 
 ```text
-http://44.202.83.202:5000
+http://<EC2_PUBLIC_IP>:5000
 ```
 
 ### Step 6: Continuous Integration
@@ -152,3 +152,14 @@ While building this project, I considered the cost of the AWS resources used.
 
 This approach keeps the overall deployment simple, cost-effective, and aligned with the requirements of the assessment.
 
+
+
+
+
+## Author
+
+**Ashutosh Rana**  
+Cloud Engineer Junior Candidate
+
+- **Education:** B.Tech in Computer Science and Engineering
+- **GitHub:** https://github.com/AshutoshRana-7
